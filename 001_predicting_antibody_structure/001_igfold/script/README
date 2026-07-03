@@ -1,0 +1,8 @@
+# Initiate
+conda create -n igfold python=3.9
+conda activate igfold
+pip install /Users/srz223/Documents/projects/project_GCbinding/repos/IgFold
+pip install "transformers==4.30.2"
+
+# For now
+conda activate igfold
